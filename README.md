@@ -13,10 +13,10 @@ Rapt 'N Rel includes the following features:
 
 ## Getting Started
 
-npm create svelte@latest my-app
-cd my-app
-npm install
-npm run dev -- --open
+- npm create svelte@latest my-app
+- cd my-app
+- npm install
+- npm run dev -- --open
 
 ## Usage
 
