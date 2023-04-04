@@ -20,7 +20,7 @@ Rapt 'N Rel includes the following features:
 
 ## Usage
 
-Passphronesis Forte is a web app built with SvelteKit and can be deployed to Vercel or any other hosting service that supports SvelteKit applications. Once deployed, users can visit the website and start using the password manager to generate and store their passwords.
+Rapt 'N Rel is a web app built with SvelteKit and can be deployed to Vercel or any other hosting service that supports SvelteKit applications. Once deployed, users can visit the website and start using the password manager to generate and store their passwords.
 
 ## Contributing
 
