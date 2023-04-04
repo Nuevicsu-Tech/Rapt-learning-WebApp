@@ -1,38 +1,31 @@
-# create-svelte
+# Rapt 'N Rel
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+Rapt 'N Rel is an open-source programming education web application that provides a fun and interactive way for users to learn programming concepts.
 
-## Creating a project
+## Features
 
-If you're seeing this, you've probably already done this step. Congrats!
+Rapt 'N Rel includes the following features:
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+- Interactive coding challenges: Users can practice coding in a fun and engaging way through interactive challenges.
+- Comprehensive curriculum: Rapt 'N Rel offers a comprehensive curriculum covering a variety of programming languages and topics.
+- Community-driven: Users can create and share their own coding challenges and contribute to the Rapt 'N Rel community.
+- Personalized learning: Rapt 'N Rel adapts to the user's learning style and pace, providing a personalized learning experience.
 
-# create a new project in my-app
+## Getting Started
+
 npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
+cd my-app
+npm install
 npm run dev -- --open
-```
 
-## Building
+## Usage
 
-To create a production version of your app:
+Passphronesis Forte is a web app built with SvelteKit and can be deployed to Vercel or any other hosting service that supports SvelteKit applications. Once deployed, users can visit the website and start using the password manager to generate and store their passwords.
 
-```bash
-npm run build
-```
+## Contributing
 
-You can preview the production build with `npm run preview`.
+Rapt 'N Rel is an open-source project, and contributions are always welcome. If you're interested in contributing to the project, please see the contributing guidelines for more information.
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+## License
+
+Rapt 'N Rel is licensed under the MIT License. See the LICENSE file for more information.
