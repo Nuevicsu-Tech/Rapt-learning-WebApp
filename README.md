@@ -1,24 +1,38 @@
-# Rapt 'N Rel
+# create-svelte
 
-Rapt 'N Rel is an open-source programming education web application that provides a fun and interactive way for users to learn programming concepts.
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-## Features
+## Creating a project
 
-Rapt 'N Rel includes the following features:
+If you're seeing this, you've probably already done this step. Congrats!
 
-- Interactive coding challenges: Users can practice coding in a fun and engaging way through interactive challenges.
-- Comprehensive curriculum: Rapt 'N Rel offers a comprehensive curriculum covering a variety of programming languages and topics.
-- Community-driven: Users can create and share their own coding challenges and contribute to the Rapt 'N Rel community.
-- Personalized learning: Rapt 'N Rel adapts to the user's learning style and pace, providing a personalized learning experience.
+```bash
+# create a new project in the current directory
+npm create svelte@latest
 
-## Getting Started
+# create a new project in my-app
+npm create svelte@latest my-app
+```
 
-To get started with Rapt 'N Rel, simply clone the repository and follow the installation instructions. Once installed, you can start using the app and explore the different programming concepts and challenges.
+## Developing
 
-## Contributing
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
-Rapt 'N Rel is an open-source project, and contributions are always welcome. If you're interested in contributing to the project, please see the contributing guidelines for more information.
+```bash
+npm run dev
 
-## License
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
 
-Rapt 'N Rel is licensed under the MIT License. See the LICENSE file for more information.
+## Building
+
+To create a production version of your app:
+
+```bash
+npm run build
+```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
