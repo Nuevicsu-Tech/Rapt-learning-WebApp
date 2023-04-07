@@ -20,7 +20,7 @@ Rapt Learning includes the following features:
 
 ## Usage
 
-Passphronesis Forte is a web app built with SvelteKit and can be deployed to Vercel or any other hosting service that supports SvelteKit applications. Once deployed, users can visit the website and start using the password manager to generate and store their passwords.
+Rapt Learning is a web app built with SvelteKit and can be deployed to Vercel or any other hosting service that supports SvelteKit applications.
 
 ## Contributing
 
@@ -28,4 +28,4 @@ Rapt Learning is an open-source project, and contributions are always welcome. I
 
 ## License
 
-Rapt 'N Rel is licensed under the MIT License. See the LICENSE file for more information.
+Rapt Learning is licensed under the MIT License. See the LICENSE file for more information.
